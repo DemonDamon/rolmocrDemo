@@ -34,7 +34,7 @@ class RolmOCR:
     def __init__(self, 
                  model_path: str = "Qwen/Qwen2.5-VL",
                  use_half: bool = True,
-                 max_new_tokens: int = 512,
+                 max_new_tokens: int = 4096,
                  temperature: float = 0.2,
                  top_p: float = 0.9,
                  do_sample: bool = True,
