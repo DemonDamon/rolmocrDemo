@@ -1,0 +1,10 @@
+fastapi==0.111.0
+fastapi-cli==0.0.4
+pydantic==2.7.3
+pydantic-settings==2.7.1
+pydantic_core==2.18.4
+transformers==4.50.1
+torch==2.6.0
+gradio==4.8.0
+gradio_client==0.7.1
+pillow==10.4.0
